@@ -14,4 +14,5 @@ A tiny recreation of the classic fortune-telling toy: ask any yes/no question, g
 1. Save the code as `magic_8_ball.py`
 2. Run:
    ```bash
+
    python magic_8_ball.py
